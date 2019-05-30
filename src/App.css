@@ -1,6 +1,11 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 1em;
 }
+
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
