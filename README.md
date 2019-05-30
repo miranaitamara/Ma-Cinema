@@ -7,7 +7,7 @@ My simple version of IMDB
 ## Picture
 
 
-![image](imdbscreenshot.png)
+![image](/img/imdbscreenshot.png)
 
 
 ## User Stories
