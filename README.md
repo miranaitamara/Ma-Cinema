@@ -23,6 +23,8 @@ The following **required** functionalities are completed (this is a sample):
 The following **optional** features are implemented:
 
 * [x] The user can enter a term into a search box to filter the currently loaded movies by search term. E.g.; the user can type "mar" and the results are reduced to show "Captain Marvel".
+* [x] The user can change the "source" from "Currently Playing" movies to "Top Rated" movies (or any other of the endpoints supplied by MovieDB).
+* [x] Sort by Rating and Popularity (from Lowest to Highest and Vice Versa)
 
 
 The following **additional** features are implemented:
@@ -36,7 +38,7 @@ Time spent: **7** hours spent in total.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [4.3.19] [Ray Romero]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
