@@ -29,11 +29,11 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] List anything else that you can get done to improve the page!
+* [x] Succesful added Modal with Youtube react installed that shows the correct trailer 
 
 ## Time Spent and Lessons Learned
 
-Time spent: **7** hours spent in total.
+Time spent: **** hours spent in total.
 
 
 ## License
