@@ -7,7 +7,7 @@ My simple version of IMDB
 ## Picture
 
 
-![image](imdbscreenshot.png)
+//![image](imdbscreenshot.png)
 
 
 ## User Stories
@@ -38,6 +38,6 @@ Time spent: **** hours spent in total.
 
 ## License
 
-    Copyright [4.3.19] [Ray Romero]
+    Copyright [9.3.20] [Ryma Nait Amara]
 
     MIT License
