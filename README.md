@@ -4,12 +4,6 @@ Created with love by: Ryma Nait Amara
   
 My simple version of IMDB
 
-## Picture
-
-
-//![image](imdbscreenshot.png)
-
-
 ## User Stories
 
 The following **required** functionalities are completed (this is a sample):
